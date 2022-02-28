@@ -10,8 +10,8 @@ Và một số thư viện khác như: os, time, operator
 
 Ngữ liệu cần sử dụng:
 cranfield-1400:	cran.all.1400
-				cran.qry
-				cranqrel
-NFCorpus:		test.docs
-				test.all.queries
-				test.2-1-0.qrel
+		cran.qry
+		cranqrel
+NFCorpus:	test.docs
+		test.all.queries
+		test.2-1-0.qrel
