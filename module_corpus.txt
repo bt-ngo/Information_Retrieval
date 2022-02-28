@@ -1,0 +1,17 @@
+Các thư viện cần sử dụng:
+Package                           Version
+--------------------------------- ---------
+numpy                             1.19.5
+regex                             2021.4.4
+nltk                              3.6.2
+ir-evaluation-py                  1.0.0
+json5                             0.9.5
+Và một số thư viện khác như: os, time, operator
+
+Ngữ liệu cần sử dụng:
+cranfield-1400:	cran.all.1400
+				cran.qry
+				cranqrel
+NFCorpus:		test.docs
+				test.all.queries
+				test.2-1-0.qrel
